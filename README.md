@@ -1,0 +1,1 @@
+Trata erros com Try, Except and Else.
